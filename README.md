@@ -109,7 +109,7 @@ test_framework/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/sapellysaivivek/test_framework_main
 ```
 
 Navigate into the project
