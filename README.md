@@ -290,7 +290,7 @@ QA Automation Engineer | Python | Selenium | Pytest | Playwright | API Testing |
 
 GitHub: https://github.com/sapellysaivivek
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://[linkedin.com/in/sapelly-sai-vivek](https://www.linkedin.com/in/sapelly-sai-vivek/)
 
 ---
 
